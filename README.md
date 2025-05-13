@@ -14,6 +14,9 @@ onboarding simple, fast, and visually appealing.
  CSS – Styling and animations.
  JavaScript – Interactive transitions.
  -----------------------------------------------------------------------
+ ## 🎯 Live Preview
+(https://jatin-cyber255.github.io/Login-Signup-FORM/)
+------------------------------------------------------------------------
  ## How to Run
  1. Clone this repository: https://github.com/Jatin-cyber255/Login-Signup-FORM.git
  2. Open index.html in your browser.
